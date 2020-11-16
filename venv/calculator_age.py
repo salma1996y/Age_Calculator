@@ -1,5 +1,9 @@
 import datetime
 
+print ("++++++++")
+print ("+++++______+++")
+
+
 myDay = input("please enter the day you were born: ")
 myMonth = input("please enter the month you were born: ")
 myYear = input("please enter the year you were born: ")
